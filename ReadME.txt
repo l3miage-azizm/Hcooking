@@ -46,6 +46,9 @@ Ensuite lancer le serveur avec la commande : npm start
 
 
 
+Afin de voir les resultats d'affichage de plusieurs recettes on vous suggere de choisir (carotte, courgette, chou-fleur) 
+les 3 premiers  ingredients puis valider 
+
 
 #######################################################
 #######################################################
