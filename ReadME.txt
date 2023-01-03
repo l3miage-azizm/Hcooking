@@ -19,7 +19,7 @@ Ouvrir le terminal:
 Installer les dépendances nécessaires avec la commande npm install.
 
 
-Ensuite lancer le serveur avec la commande : npm run:start dev
+Ensuite lancer le serveur avec la commande : npm run start:dev
 
 
 Une fois, le serveur est lancé et la connexion est établie avec la base de données.
@@ -55,7 +55,7 @@ les 3 premiers  ingredients puis valider
 ################ A T T E N T I O N ####################
 #######################################################
 
-A chaque relancer du serveur la table recette se vides,
+A chaque relance du serveur la table recette se vides,
 Un comportement incompréhensible de notre part.
 Il faut manuellement re importer la table.   
 
